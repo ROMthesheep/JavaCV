@@ -1,0 +1,13 @@
+>>>nombre
+Alan Brito Delgado
+>>>telefono
+555123456
+>>>correo
+alan@gmail.com
+>>>formacion
+Técnico de Desarrollo de Aplicaciones Multiplataforma por el IES Campanillas
+Ingeniero Informático por la Universidad de Málaga
+Master en Inteligencia Artificial por la Universidad de Harvard
+>>>experiencialaboral
+Programador senior en Google
+Programador junior en ByEvolution
